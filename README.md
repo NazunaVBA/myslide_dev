@@ -1,1 +1,0 @@
-# myslide_dev
